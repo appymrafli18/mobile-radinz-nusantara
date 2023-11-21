@@ -1,0 +1,22 @@
+import Kerambit from './kerambit.svg';
+import Badik from './badik tumbuk lado.svg';
+import Baladu from './baladu.svg';
+import Busur from './busur.svg';
+import Celurit from './celurit.svg';
+import GolokBetawi from './golok betawi.svg';
+import GolokCiomas from './golok ciomas.svg';
+import KerisBali from './keris bali.svg';
+import KerisJambi from './keris jambi.svg';
+import LundukSumpit from './lunduk sumpit.svg';
+import ParangBadau from './parang badau.svg';
+import Peda from './peda.svg';
+import PedangJenawi from './pedang jenawi.svg';
+import PisoSurit from './piso surit.svg';
+import Rencong from './rencong.svg';
+import Tawalang from './tawalang.svg';
+import Terapang from './terapang.svg';
+import TombakPapua from './tombak papua.svg';
+import TombakYogya from './tombak yogya.svg';
+import Trisula from './trisula.svg';
+
+export { Kerambit, Badik, Baladu, Busur, Celurit, GolokBetawi, GolokCiomas, KerisBali, KerisJambi, LundukSumpit, ParangBadau, Peda, PedangJenawi, PisoSurit, Rencong, Tawalang, Terapang, TombakPapua, TombakYogya, Trisula };
